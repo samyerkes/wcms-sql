@@ -1,0 +1,12 @@
+{
+    "name": "samyerkes/amiup",
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Sam Yerkes",
+            "email": "samuelyerkes@gmail.com"
+        }
+    ]
+}
